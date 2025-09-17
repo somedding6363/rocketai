@@ -3,6 +3,8 @@
   --breakpoint-xxs: 25rem;
   --breakpoint-xs: 30rem;
   --main: #f2f2ee;
+  --table-bg: #f5f3ed;
+  --text-xxs: 0.5rem;
 }
 
 .speech-bubble {
